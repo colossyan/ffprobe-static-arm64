@@ -1,6 +1,6 @@
 {
   "name": "ffprobe-static-arm64",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Static binaries for ffprobe including Apple Silicon support. Forked from https://github.com/joshwnj/ffprobe-static",
   "main": "index.js",
   "scripts": {
