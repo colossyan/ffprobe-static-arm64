@@ -1,20 +1,20 @@
 {
-  "name": "ffprobe-static",
+  "name": "ffprobe-static-arm64",
   "version": "3.0.0",
-  "description": "Static binaries for ffprobe.",
+  "description": "Static binaries for ffprobe including Apple Silicon support. Forked from https://github.com/joshwnj/ffprobe-static",
   "main": "index.js",
   "scripts": {
     "test": "tape tests/*"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joshwnj/ffprobe-static.git"
+    "url": ""
   },
   "keywords": [
     "ffprobe",
     "ffmpeg"
   ],
-  "author": "joshwnj",
+  "author": "abelerdesz",
   "license": "MIT",
   "devDependencies": {
     "tape": "^4.0.1"
